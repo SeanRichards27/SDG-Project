@@ -1,0 +1,283 @@
+Overall Classification Report:
+              precision    recall  f1-score   support
+
+       SDG 1       0.05      1.00      0.10        25
+       SDG 2       0.05      1.00      0.10        26
+       SDG 3       0.25      1.00      0.40       126
+       SDG 4       0.25      1.00      0.40       125
+       SDG 5       0.04      1.00      0.08        22
+       SDG 6       0.05      1.00      0.09        24
+       SDG 7       0.08      1.00      0.14        39
+       SDG 8       0.13      1.00      0.23        66
+       SDG 9       0.15      1.00      0.26        74
+      SDG 10       0.13      1.00      0.23        66
+      SDG 11       0.15      1.00      0.26        73
+      SDG 12       0.15      1.00      0.26        75
+      SDG 13       0.10      1.00      0.18        48
+      SDG 14       0.04      0.95      0.08        21
+      SDG 15       0.05      1.00      0.10        25
+      SDG 16       0.15      1.00      0.27        77
+      SDG 17       0.11      1.00      0.19        53
+
+   micro avg       0.11      1.00      0.20       965
+   macro avg       0.11      1.00      0.20       965
+weighted avg       0.15      1.00      0.26       965
+ samples avg       0.11      1.00      0.19       965
+------------------------------------------------------
+
+Classification Report for SDG 1:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       475
+           1       0.05      1.00      0.10        25
+
+    accuracy                           0.05       500
+   macro avg       0.53      0.50      0.05       500
+weighted avg       0.95      0.05      0.01       500
+
+------------------------------------------------------
+Classification Report for SDG 2:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       474
+           1       0.05      1.00      0.10        26
+
+    accuracy                           0.05       500
+   macro avg       0.53      0.50      0.05       500
+weighted avg       0.95      0.05      0.01       500
+
+------------------------------------------------------
+Classification Report for SDG 3:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.01       374
+           1       0.25      1.00      0.40       126
+
+    accuracy                           0.25       500
+   macro avg       0.63      0.50      0.20       500
+weighted avg       0.81      0.25      0.11       500
+
+------------------------------------------------------
+Classification Report for SDG 4:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.01       375
+           1       0.25      1.00      0.40       125
+
+    accuracy                           0.25       500
+   macro avg       0.63      0.50      0.20       500
+weighted avg       0.81      0.25      0.10       500
+
+------------------------------------------------------
+Classification Report for SDG 5:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       478
+           1       0.04      1.00      0.08        22
+
+    accuracy                           0.05       500
+   macro avg       0.52      0.50      0.04       500
+weighted avg       0.96      0.05      0.01       500
+
+------------------------------------------------------
+Classification Report for SDG 6:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       476
+           1       0.05      1.00      0.09        24
+
+    accuracy                           0.05       500
+   macro avg       0.52      0.50      0.05       500
+weighted avg       0.95      0.05      0.01       500
+
+------------------------------------------------------
+Classification Report for SDG 7:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       461
+           1       0.08      1.00      0.14        39
+
+    accuracy                           0.08       500
+   macro avg       0.54      0.50      0.07       500
+weighted avg       0.93      0.08      0.02       500
+
+------------------------------------------------------
+Classification Report for SDG 8:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       434
+           1       0.13      1.00      0.23        66
+
+    accuracy                           0.13       500
+   macro avg       0.57      0.50      0.12       500
+weighted avg       0.89      0.13      0.03       500
+
+------------------------------------------------------
+Classification Report for SDG 9:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       426
+           1       0.15      1.00      0.26        74
+
+    accuracy                           0.15       500
+   macro avg       0.57      0.50      0.13       500
+weighted avg       0.87      0.15      0.04       500
+
+------------------------------------------------------
+Classification Report for SDG 10:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       434
+           1       0.13      1.00      0.23        66
+
+    accuracy                           0.13       500
+   macro avg       0.57      0.50      0.12       500
+weighted avg       0.89      0.13      0.03       500
+
+------------------------------------------------------
+Classification Report for SDG 11:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       427
+           1       0.15      1.00      0.26        73
+
+    accuracy                           0.15       500
+   macro avg       0.57      0.50      0.13       500
+weighted avg       0.88      0.15      0.04       500
+
+------------------------------------------------------
+Classification Report for SDG 12:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       425
+           1       0.15      1.00      0.26        75
+
+    accuracy                           0.15       500
+   macro avg       0.58      0.50      0.13       500
+weighted avg       0.87      0.15      0.04       500
+
+------------------------------------------------------
+Classification Report for SDG 13:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       452
+           1       0.10      1.00      0.18        48
+
+    accuracy                           0.10       500
+   macro avg       0.55      0.50      0.09       500
+weighted avg       0.91      0.10      0.02       500
+
+------------------------------------------------------
+Classification Report for SDG 14:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       479
+           1       0.04      0.95      0.08        21
+
+    accuracy                           0.04       500
+   macro avg       0.02      0.48      0.04       500
+weighted avg       0.00      0.04      0.00       500
+
+------------------------------------------------------
+Classification Report for SDG 15:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       475
+           1       0.05      1.00      0.10        25
+
+    accuracy                           0.05       500
+   macro avg       0.53      0.50      0.05       500
+weighted avg       0.95      0.05      0.01       500
+
+------------------------------------------------------
+Classification Report for SDG 16:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       423
+           1       0.15      1.00      0.27        77
+
+    accuracy                           0.16       500
+   macro avg       0.58      0.50      0.14       500
+weighted avg       0.87      0.16      0.05       500
+
+------------------------------------------------------
+Classification Report for SDG 17:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00       447
+           1       0.11      1.00      0.19        53
+
+    accuracy                           0.11       500
+   macro avg       0.55      0.50      0.10       500
+weighted avg       0.91      0.11      0.02       500
+
+------------------------------------------------------
+Confusion Matrices:
+Confusion Matrix for SDG 1:
+[[  1 474]
+ [  0  25]]
+------------------------------------------------------
+Confusion Matrix for SDG 2:
+[[  1 473]
+ [  0  26]]
+------------------------------------------------------
+Confusion Matrix for SDG 3:
+[[  1 373]
+ [  0 126]]
+------------------------------------------------------
+Confusion Matrix for SDG 4:
+[[  1 374]
+ [  0 125]]
+------------------------------------------------------
+Confusion Matrix for SDG 5:
+[[  1 477]
+ [  0  22]]
+------------------------------------------------------
+Confusion Matrix for SDG 6:
+[[  1 475]
+ [  0  24]]
+------------------------------------------------------
+Confusion Matrix for SDG 7:
+[[  1 460]
+ [  0  39]]
+------------------------------------------------------
+Confusion Matrix for SDG 8:
+[[  1 433]
+ [  0  66]]
+------------------------------------------------------
+Confusion Matrix for SDG 9:
+[[  1 425]
+ [  0  74]]
+------------------------------------------------------
+Confusion Matrix for SDG 10:
+[[  1 433]
+ [  0  66]]
+------------------------------------------------------
+Confusion Matrix for SDG 11:
+[[  1 426]
+ [  0  73]]
+------------------------------------------------------
+Confusion Matrix for SDG 12:
+[[  1 424]
+ [  0  75]]
+------------------------------------------------------
+Confusion Matrix for SDG 13:
+[[  1 451]
+ [  0  48]]
+------------------------------------------------------
+Confusion Matrix for SDG 14:
+[[  0 479]
+ [  1  20]]
+------------------------------------------------------
+Confusion Matrix for SDG 15:
+[[  1 474]
+ [  0  25]]
+------------------------------------------------------
+Confusion Matrix for SDG 16:
+[[  1 422]
+ [  0  77]]
+------------------------------------------------------
+Confusion Matrix for SDG 17:
+[[  1 446]
+ [  0  53]]
+------------------------------------------------------

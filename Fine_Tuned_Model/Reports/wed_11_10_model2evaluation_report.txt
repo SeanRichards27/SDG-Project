@@ -1,0 +1,97 @@
+Overall Accuracy: 0.3620
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       SDG 1       0.33      0.12      0.18        16
+       SDG 2       0.00      0.00      0.00        11
+       SDG 3       0.87      0.55      0.67       135
+       SDG 4       0.67      0.61      0.64       208
+       SDG 5       0.80      0.53      0.64        15
+       SDG 6       0.75      0.30      0.43        10
+       SDG 7       0.81      0.57      0.67        23
+       SDG 8       0.73      0.13      0.22        83
+       SDG 9       0.69      0.43      0.53        88
+      SDG 10       0.94      0.19      0.32        84
+      SDG 11       0.91      0.22      0.35        46
+      SDG 12       0.63      0.45      0.52        60
+      SDG 13       0.67      0.10      0.17        41
+      SDG 14       1.00      0.12      0.22        16
+      SDG 15       0.60      0.15      0.24        20
+      SDG 16       0.81      0.46      0.59       117
+      SDG 17       0.71      0.10      0.17        52
+
+   micro avg       0.73      0.39      0.51      1025
+   macro avg       0.70      0.30      0.39      1025
+weighted avg       0.75      0.39      0.48      1025
+ samples avg       0.64      0.51      0.54      1025
+
+
+Confusion matrix for SDG 1:
+[[  2  14]
+ [  4 480]]
+
+Confusion matrix for SDG 2:
+[[  0  11]
+ [  3 486]]
+
+Confusion matrix for SDG 3:
+[[ 74  61]
+ [ 11 354]]
+
+Confusion matrix for SDG 4:
+[[126  82]
+ [ 61 231]]
+
+Confusion matrix for SDG 5:
+[[  8   7]
+ [  2 483]]
+
+Confusion matrix for SDG 6:
+[[  3   7]
+ [  1 489]]
+
+Confusion matrix for SDG 7:
+[[ 13  10]
+ [  3 474]]
+
+Confusion matrix for SDG 8:
+[[ 11  72]
+ [  4 413]]
+
+Confusion matrix for SDG 9:
+[[ 38  50]
+ [ 17 395]]
+
+Confusion matrix for SDG 10:
+[[ 16  68]
+ [  1 415]]
+
+Confusion matrix for SDG 11:
+[[ 10  36]
+ [  1 453]]
+
+Confusion matrix for SDG 12:
+[[ 27  33]
+ [ 16 424]]
+
+Confusion matrix for SDG 13:
+[[  4  37]
+ [  2 457]]
+
+Confusion matrix for SDG 14:
+[[  2  14]
+ [  0 484]]
+
+Confusion matrix for SDG 15:
+[[  3  17]
+ [  2 478]]
+
+Confusion matrix for SDG 16:
+[[ 54  63]
+ [ 13 370]]
+
+Confusion matrix for SDG 17:
+[[  5  47]
+ [  2 446]]
+
